@@ -1,0 +1,6 @@
+framework module Pods_EventProfiler {
+  umbrella header "Pods-EventProfiler-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MainScreenViewController.updateEventData(json:):MainScreenViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "eventDataModel">
+            </PersistentString>
+            <PersistentString
+               value = "listOfEvents">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainScreenViewController.locationManager(_:didUpdateLocations:):MainScreenViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "climateModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfiledEventsFinderViewController.prepare(for:sender:):ProfiledEventsFinderViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "listOfEvents">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfiledEventsFinderViewController.updateEventData(json:):ProfiledEventsFinderViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "listOfEvents">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ProfiledEventsFinderViewController.loadUser(key:):ProfiledEventsFinderViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "genreId">
+            </PersistentString>
+            <PersistentString
+               value = "listOfGenreIDs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainScreenViewController.updateWeatherData(json:):MainScreenViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "climateModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
